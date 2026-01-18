@@ -33,7 +33,7 @@ int main()
     printMap(map);
     
     
-}
+} //foo
 
 /**
 * @brief Prints a 2D map to the console   
