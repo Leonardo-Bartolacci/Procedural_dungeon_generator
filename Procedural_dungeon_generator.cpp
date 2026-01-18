@@ -32,10 +32,7 @@ int main()
     placeRooms(map, 2, 5, 3);
     printMap(map);
     
-    /* for (int i = 100; i <= 300; i++) {
-        std::cout << "Number " << i << " = " << char(i) << "\n";
-    }
-   */
+    
 }
 
 /**
